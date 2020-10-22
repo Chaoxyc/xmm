@@ -1,0 +1,10 @@
+APP_CHANNEL 腾讯应用宝 yyb
+APP_CHANNEL 360应用平台 360
+APP_CHANNEL 百度手机助手 baidu
+APP_CHANNEL 小米 xiaomi
+APP_CHANNEL 华为 huawei
+APP_CHANNEL vivo vivo
+APP_CHANNEL oppo oppo
+APP_CHANNEL 魅族商店 meizu
+APP_CHANNEL 阿里 ali
+APP_CHANNEL 搜狗 sogou
